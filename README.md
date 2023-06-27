@@ -1,4 +1,4 @@
-# Description
+# Calculator 
 The calculator is a simple web application created as part of my study of web development using HTML, CSS, and JavaScript. It serves as a practical exercise to showcase my skills in building interactive interfaces and implementing basic mathematical operations.
 
 ## Features
